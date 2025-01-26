@@ -29,7 +29,6 @@
 
 > **PimpDorker** is an intuitive tool that simplifies web dorking by generating results for user-specified queries, extracting URLs, and identifying main domains.  
 <br>  
----
 
 
 Made by [Om Shingare](https://github.com/ShingareOm)
