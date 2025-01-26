@@ -32,7 +32,7 @@
 ---
 
 
-Made by - [Om Shingare](https://github.com/ShingareOm)
+Made by [Om Shingare](https://github.com/ShingareOm)
 
 
 </div>
